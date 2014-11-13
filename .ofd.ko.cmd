@@ -1,0 +1,1 @@
+cmd_/home/javis/Device_Driver/Device_Driver/ofd.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-27-generic/scripts/module-common.lds --build-id  -o /home/javis/Device_Driver/Device_Driver/ofd.ko /home/javis/Device_Driver/Device_Driver/ofd.o /home/javis/Device_Driver/Device_Driver/ofd.mod.o
